@@ -1,3 +1,3 @@
 # duplicate_photo_finder
 
-Uses hashlib to find and delete duplicate photos based on hash. 
+Uses hashlib to find and delete duplicate photos in specified folder. 
